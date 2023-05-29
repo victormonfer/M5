@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\victormonfer\source\repos\Herencia con objetos\Herencia con objetos\Source.cpp(243,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Herencia con objetos.vcxproj -> C:\Users\victormonfer\source\repos\Herencia con objetos\Debug\Herencia con objetos.exe
